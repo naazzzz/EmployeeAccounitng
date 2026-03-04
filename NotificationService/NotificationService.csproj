@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-NotificationService-2b1da175-4f67-4733-95cc-65c4ea825217</UserSecretsId>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MailKit" Version="4.13.0" />
+        <PackageReference Include="MassTransit.RabbitMQ" Version="8.5.3-develop.2360" />
+        <PackageReference Include="MassTransit.TestFramework" Version="8.5.2" />
+        <PackageReference Include="Microsoft.AspNetCore.RateLimiting" Version="7.0.0-rc.2.22476.2" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.8" />
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+        <PackageReference Include="Microsoft.VisualStudio.TestPlatform" Version="14.0.0" />
+        <PackageReference Include="Moq" Version="4.20.72" />
+        <PackageReference Include="Sprache" Version="3.0.0-develop-00049" />
+        <PackageReference Include="xunit" Version="2.9.3" />
+        <PackageReference Include="xunit.runner.visualstudio" Version="3.1.4">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Tests\IntegrationTests\" />
+      <Folder Include="Tests\UnitTests\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="AutoMapper">
+        <HintPath>..\..\..\.nuget\packages\automapper\15.0.1\lib\net9.0\AutoMapper.dll</HintPath>
+      </Reference>
+      <Reference Include="DotNetEnv">
+        <HintPath>..\..\..\.nuget\packages\dotnetenv\3.1.1\lib\netstandard1.3\DotNetEnv.dll</HintPath>
+      </Reference>
+      <Reference Include="MimeKit">
+        <HintPath>..\..\..\.nuget\packages\mimekit\4.13.0\lib\net8.0\MimeKit.dll</HintPath>
+      </Reference>
+      <Reference Include="Moq">
+        <HintPath>..\..\..\.nuget\packages\moq\4.20.72\lib\net6.0\Moq.dll</HintPath>
+      </Reference>
+      <Reference Include="Newtonsoft.Json">
+        <HintPath>..\..\..\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\General\General.csproj" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,107 @@
+2025-09-05 19:04:23.705 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:07:22.613 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:09:44.417 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:10:45.958 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:23:45.511 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:38:26.294 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:39:26.642 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:41:14.661 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:44:44.053 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:45:08.260 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 19:48:28.292 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:01:23.420 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:01:53.035 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:03:39.269 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:06:29.503 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:07:07.410 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:16:35.047 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:22:34.596 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:25:29.206 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:29:09.799 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:31:13.102 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:32:55.627 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:34:02.464 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:35:03.897 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:38:22.761 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:39:40.511 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:39:58.596 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:40:25.064 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:43:47.033 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:43:47.193 +03:00 [INF] User profile is available. Using '/home/web-dev-tech/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-09-05 20:43:48.058 +03:00 [INF] Bus started: "rabbitmq://localhost/"
+2025-09-05 20:43:48.126 +03:00 [WRN] The ASP.NET Core developer certificate is only trusted by some clients. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert
+2025-09-05 20:43:48.155 +03:00 [INF] Now listening on: https://localhost:8443
+2025-09-05 20:43:48.156 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-05 20:43:48.156 +03:00 [INF] Hosting environment: Development
+2025-09-05 20:43:48.156 +03:00 [INF] Content root path: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService
+2025-09-05 20:43:49.496 +03:00 [ERR] Ошибка выполнения ClearExpireMailCodesTimedHostedService: Could not load file or assembly 'Microsoft.EntityFrameworkCore.Relational, Version=9.0.6.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. The system cannot find the file specified.
+
+2025-09-05 20:50:45.544 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:8443/api/users - application/json 303
+2025-09-05 20:50:45.737 +03:00 [INF] Executing endpoint 'Web.Controllers.UsersController.Create (UserService)'
+2025-09-05 20:50:45.777 +03:00 [INF] Route matched with {action = "Create", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(UserService.Web.Dto.User.CreateUserDto) on controller Web.Controllers.UsersController (UserService).
+2025-09-05 20:50:46.023 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-09-05 20:51:42.512 +03:00 [WRN] The WebRootPath was not found: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService/wwwroot. Static files may be unavailable.
+2025-09-05 20:51:42.672 +03:00 [INF] User profile is available. Using '/home/web-dev-tech/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-09-05 20:51:43.690 +03:00 [INF] Bus started: "rabbitmq://localhost/"
+2025-09-05 20:51:43.723 +03:00 [WRN] The ASP.NET Core developer certificate is only trusted by some clients. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert
+2025-09-05 20:51:43.741 +03:00 [INF] Now listening on: https://localhost:8443
+2025-09-05 20:51:43.742 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-05 20:51:43.742 +03:00 [INF] Hosting environment: Development
+2025-09-05 20:51:43.742 +03:00 [INF] Content root path: /home/web-dev-tech/Рабочий стол/dotnet-berezhnov/UserService/UserService
+2025-09-05 20:51:44.815 +03:00 [WRN] Entity 'User' has a global query filter defined and is the required end of a relationship with the entity 'UserChangeHistory'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2025-09-05 20:51:46.257 +03:00 [INF] Executed DbCommand (67ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."Address", a."AvatarId", a."ConcurrencyStamp", a."CreatedAt", a."DeletedAt", a."DepartmentId", a."Email", a."EmailConfirmed", a."IsBlocked", a."IsDeleted", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordExpiresAt", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityStamp", a."TwoFactorEnabled", a."UpdatedAt", a."UserName", a."UsersGrade"
+FROM "AspNetUsers" AS a
+WHERE NOT (a."IsBlocked") AND a."PasswordExpiresAt" < now()
+2025-09-05 20:52:15.454 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:8443/api/users - application/json 303
+2025-09-05 20:52:15.645 +03:00 [INF] Executing endpoint 'Web.Controllers.UsersController.Create (UserService)'
+2025-09-05 20:52:15.678 +03:00 [INF] Route matched with {action = "Create", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(UserService.Web.Dto.User.CreateUserDto) on controller Web.Controllers.UsersController (UserService).
+2025-09-05 20:52:15.908 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-09-05 20:52:16.019 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."Address", a."AvatarId", a."ConcurrencyStamp", a."CreatedAt", a."DeletedAt", a."DepartmentId", a."Email", a."EmailConfirmed", a."IsBlocked", a."IsDeleted", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordExpiresAt", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityStamp", a."TwoFactorEnabled", a."UpdatedAt", a."UserName", a."UsersGrade"
+FROM "AspNetUsers" AS a
+WHERE NOT (a."IsBlocked")
+2025-09-05 20:52:16.048 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."Address", a."AvatarId", a."ConcurrencyStamp", a."CreatedAt", a."DeletedAt", a."DepartmentId", a."Email", a."EmailConfirmed", a."IsBlocked", a."IsDeleted", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordExpiresAt", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityStamp", a."TwoFactorEnabled", a."UpdatedAt", a."UserName", a."UsersGrade"
+FROM "AspNetUsers" AS a
+WHERE NOT (a."IsBlocked")
+2025-09-05 20:52:16.069 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-09-05 20:52:16.142 +03:00 [INF] Executed action Web.Controllers.UsersController.Create (UserService) in 457.3366ms
+2025-09-05 20:52:16.148 +03:00 [INF] Executed endpoint 'Web.Controllers.UsersController.Create (UserService)'
+2025-09-05 20:52:16.163 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:8443/api/users - 400 null application/problem+json; charset=utf-8 711.2006ms
+2025-09-05 20:52:27.322 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:8443/api/users - application/json 303
+2025-09-05 20:52:27.335 +03:00 [INF] Executing endpoint 'Web.Controllers.UsersController.Create (UserService)'
+2025-09-05 20:52:27.336 +03:00 [INF] Route matched with {action = "Create", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Create(UserService.Web.Dto.User.CreateUserDto) on controller Web.Controllers.UsersController (UserService).
+2025-09-05 20:52:27.372 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."Address", a."AvatarId", a."ConcurrencyStamp", a."CreatedAt", a."DeletedAt", a."DepartmentId", a."Email", a."EmailConfirmed", a."IsBlocked", a."IsDeleted", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordExpiresAt", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityStamp", a."TwoFactorEnabled", a."UpdatedAt", a."UserName", a."UsersGrade"
+FROM "AspNetUsers" AS a
+WHERE NOT (a."IsBlocked")
+2025-09-05 20:52:27.374 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."Address", a."AvatarId", a."ConcurrencyStamp", a."CreatedAt", a."DeletedAt", a."DepartmentId", a."Email", a."EmailConfirmed", a."IsBlocked", a."IsDeleted", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordExpiresAt", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityStamp", a."TwoFactorEnabled", a."UpdatedAt", a."UserName", a."UsersGrade"
+FROM "AspNetUsers" AS a
+WHERE NOT (a."IsBlocked")
+2025-09-05 20:52:27.386 +03:00 [INF] Executing action method Web.Controllers.UsersController.Create (UserService) - Validation state: "Valid"
+2025-09-05 20:52:27.544 +03:00 [WRN] The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.
+2025-09-05 20:52:27.564 +03:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT d."Id", d."CreateAt", d."Name"
+FROM "Departments" AS d
+LIMIT 1
+2025-09-05 20:52:27.722 +03:00 [INF] Executed DbCommand (25ms) [Parameters=[@__normalizedName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."ConcurrencyStamp", a."Name", a."NormalizedName"
+FROM "AspNetRoles" AS a
+WHERE a."NormalizedName" = @__normalizedName_0
+LIMIT 1
+2025-09-05 20:52:27.757 +03:00 [INF] Saving changes to the database at "2025-09-05T17:52:27.7574826Z"
+2025-09-05 20:52:27.967 +03:00 [INF] UserInterceptor: Sent email for User 9cef91bc-33a3-4b09-bdae-bc24e4b59b70
+2025-09-05 20:52:28.197 +03:00 [INF] Executed DbCommand (17ms) [Parameters=[@p0='?', @p1='?' (DbType = Int32), @p2='?' (DbType = Object), @p3='?', @p4='?', @p5='?' (DbType = DateTime), @p6='?' (DbType = DateTime), @p7='?', @p8='?', @p9='?' (DbType = Boolean), @p10='?' (DbType = Boolean), @p11='?' (DbType = Boolean), @p12='?' (DbType = Boolean), @p13='?' (DbType = DateTime), @p14='?', @p15='?', @p16='?' (DbType = DateTime), @p17='?', @p18='?', @p19='?' (DbType = Boolean), @p20='?', @p21='?' (DbType = Boolean), @p22='?' (DbType = DateTime), @p23='?', @p24='?' (DbType = Int32), @p25='?', @p26='?', @p27='?', @p28='?' (DbType = Int32), @p29='?' (DbType = DateTime), @p30='?', @p31='?' (DbType = Object)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "AspNetUsers" ("Id", "AccessFailedCount", "Address", "AvatarId", "ConcurrencyStamp", "CreatedAt", "DeletedAt", "DepartmentId", "Email", "EmailConfirmed", "IsBlocked", "IsDeleted", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordExpiresAt", "PasswordHash", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UpdatedAt", "UserName", "UsersGrade")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18, @p19, @p20, @p21, @p22, @p23, @p24);
+INSERT INTO "AspNetUserRoles" ("RoleId", "UserId")
+VALUES (@p25, @p26);
+INSERT INTO "UserChangeHistory" ("Id", "ActionEnum", "CreatedAt", "UserId", "ValueAction")
+VALUES (@p27, @p28, @p29, @p30, @p31);
+2025-09-05 20:52:28.258 +03:00 [INF] Executed action method Web.Controllers.UsersController.Create (UserService), returned result Microsoft.AspNetCore.Mvc.CreatedResult in 864.7514ms.
+2025-09-05 20:52:28.265 +03:00 [INF] Executing CreatedResult, writing value of type 'UserService.Web.Dto.User.UserResponseDto'.
+2025-09-05 20:52:28.277 +03:00 [INF] Executed action Web.Controllers.UsersController.Create (UserService) in 941.3172ms
+2025-09-05 20:52:28.280 +03:00 [INF] Executed endpoint 'Web.Controllers.UsersController.Create (UserService)'
+2025-09-05 20:52:28.289 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:8443/api/users - 201 null application/json; charset=utf-8 966.5472ms

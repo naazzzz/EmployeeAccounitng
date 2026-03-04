@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/artyom/RiderProjects/EmployeeAccounting/AuditService/AuditService.csproj": {}
+  },
+  "projects": {
+    "/home/artyom/RiderProjects/EmployeeAccounting/AuditService/AuditService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/artyom/RiderProjects/EmployeeAccounting/AuditService/AuditService.csproj",
+        "projectName": "AuditService",
+        "projectPath": "/home/artyom/RiderProjects/EmployeeAccounting/AuditService/AuditService.csproj",
+        "packagesPath": "/home/artyom/.nuget/packages/",
+        "outputPath": "/home/artyom/RiderProjects/EmployeeAccounting/AuditService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/artyom/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/artyom/RiderProjects/EmployeeAccounting/General/General.csproj": {
+                "projectPath": "/home/artyom/RiderProjects/EmployeeAccounting/General/General.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/artyom/RiderProjects/EmployeeAccounting/General/General.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/artyom/RiderProjects/EmployeeAccounting/General/General.csproj",
+        "projectName": "General",
+        "projectPath": "/home/artyom/RiderProjects/EmployeeAccounting/General/General.csproj",
+        "packagesPath": "/home/artyom/.nuget/packages/",
+        "outputPath": "/home/artyom/RiderProjects/EmployeeAccounting/General/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/artyom/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

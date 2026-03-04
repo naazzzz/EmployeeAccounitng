@@ -1,0 +1,75 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="AutoMapper">
+        <HintPath>..\..\..\.nuget\packages\automapper\15.0.1\lib\net9.0\AutoMapper.dll</HintPath>
+      </Reference>
+      <Reference Include="Bogus">
+        <HintPath>..\..\..\.nuget\packages\bogus\35.6.3\lib\net6.0\Bogus.dll</HintPath>
+      </Reference>
+      <Reference Include="DotNetEnv">
+        <HintPath>..\..\..\.nuget\packages\dotnetenv\3.1.1\lib\netstandard1.3\DotNetEnv.dll</HintPath>
+      </Reference>
+      <Reference Include="Microsoft.AspNetCore.Authentication.Google">
+        <HintPath>..\..\..\.nuget\packages\microsoft.aspnetcore.authentication.google\9.0.6\lib\net9.0\Microsoft.AspNetCore.Authentication.Google.dll</HintPath>
+      </Reference>
+      <Reference Include="Serilog">
+        <HintPath>..\..\..\.nuget\packages\serilog\4.3.0\lib\net9.0\Serilog.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="15.0.1" />
+      <PackageReference Include="Duende.IdentityServer" Version="7.3.1" />
+      <PackageReference Include="Duende.IdentityServer.AspNetIdentity" Version="7.3.1" />
+      <PackageReference Include="Duende.IdentityServer.EntityFramework" Version="7.3.1" />
+      <PackageReference Include="Duende.IdentityServer.EntityFramework.Storage" Version="7.3.1" />
+      <PackageReference Include="Duende.IdentityServer.Storage" Version="7.3.1" />
+      <PackageReference Include="MassTransit.RabbitMQ" Version="8.5.2" />
+      <PackageReference Include="MassTransit.TestFramework" Version="8.5.2" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.3.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.8" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="9.0.6" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.8">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="9.0.6" />
+      <PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="8.14.0" />
+      <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+      <PackageReference Include="Microsoft.VisualStudio.TestPlatform" Version="14.0.0" />
+      <PackageReference Include="MSTest.TestAdapter" Version="3.10.4" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
+      <PackageReference Include="OpenIddict" Version="7.0.0" />
+      <PackageReference Include="OpenIddict.AspNetCore" Version="7.0.0" />
+      <PackageReference Include="OpenIddict.EntityFrameworkCore" Version="7.0.0" />
+      <PackageReference Include="Scrutor" Version="6.1.0" />
+      <PackageReference Include="Sprache" Version="2.3.1" />
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.4" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.14.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\General\General.csproj" />
+      <ProjectReference Include="..\ProfileService\ProfileService.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Migrations\" />
+      <Folder Include="Tests\UnitTests\" />
+    </ItemGroup>
+    
+</Project>
